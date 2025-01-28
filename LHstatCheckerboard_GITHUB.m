@@ -16,13 +16,13 @@ elSolute = {'Al','V','Fe','O'}; %select the solute species of interest
 
 runPairsOnly = true;
 saveOutput = true; 
-filename = 'testSLM_1NN_10sims'; %filename to save output to - update NN and number of sims to suite
+filename = 'testSLM_1NN_100sims'; %filename to save output to - update NN and number of sims to suite
 
 chopData = true; %do you want to crop the dataset - see chopData section for dim inputs.
 
 LELH = true; % Leading-Edge LH* (true/false)
 NLH = true; % Normalised LH* (true/false)
-R = 10; % number of simulations - typically above 100 simulations are used
+R = 100; % number of simulations - typically above 100 simulations are used
 
 %% read pos 
 if ~exist('inFloats', 'var')
