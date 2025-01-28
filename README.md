@@ -30,8 +30,8 @@ The default state of the code is set up to look at this data.
 
 
 # Other information
-The code has been built and tested on MATLAB R2020a, R2024b
-The code can serve as a template for calculating LH* statistics for multicomponent APT data. We recommend running the test data first -which has been tested and works before trying to apply the code to your dataset of interst. 
+The code has been built and tested on MATLAB R2020a and R2024b.
+The code can serve as a template for calculating LH* statistics for multicomponent APT data. We recommend running the test data first - which has been tested and works before trying to apply the code to your dataset of interst. 
 For more information/help please email will.davids@infravue.com 
 
 
